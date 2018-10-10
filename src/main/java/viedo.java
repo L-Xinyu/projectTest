@@ -1,2 +1,2 @@
-public class viedo  {
+public class viedo    {
 }
